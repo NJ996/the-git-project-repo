@@ -3,3 +3,5 @@ This is just another file created in feature-1 branch.
 Another-file.txt has been modified locally.
 
 Another-file.txt has been modified locally once again.
+
+ANother-file.txt has been modified locally once again in feature-2 branch.
